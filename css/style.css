@@ -1,0 +1,41 @@
+{
+    margin: 0;
+}
+
+nav{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: aqua;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    margin-top: 80px;
+}
+div#lipsumContain{
+    margin-top: 80px;
+    text-align: center;
+}
+div{
+    margin-bottom: 20px;
+}
+
+img{
+    margin-top: 80px;
+    height: 200px;
+    width: auto;
+}
+
+#imageContain{
+    float
+}
